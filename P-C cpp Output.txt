@@ -1,0 +1,41 @@
+         Producer Consumer Problem
+  max size is 5
+ 1. producer
+ 2. consumer
+ 3. quit
+ enter your choice
+ 1
+  producer running
+do you want to continue? y
+
+ 1. producer
+ 2. consumer
+ 3. quit
+ enter your choice
+ 1
+  producer running
+do you want to continue? y
+
+ 1. producer
+ 2. consumer
+ 3. quit
+ enter your choice
+ 2
+  consumer running
+do you want to continue? y
+
+ 1. producer
+ 2. consumer
+ 3. quit
+ enter your choice
+ 2
+  consumer running
+do you want to continue? y
+
+ 1. producer
+ 2. consumer
+ 3. quit
+ enter your choice
+2
+  consumer waiting
+do you want to continue? n

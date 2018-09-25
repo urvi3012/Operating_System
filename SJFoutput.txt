@@ -1,0 +1,37 @@
+         Shortest Job Firts
+Enter Total Number of Process: 5
+
+Enter Burst Time and Priority
+
+P[1]
+Burst Time:12
+Priority:2
+
+P[2]
+Burst Time:2
+Priority:3
+
+P[3]
+Burst Time:11
+Priority:1
+
+P[4]
+Burst Time:4
+Priority:5
+
+P[5]
+Burst Time:4
+Priority:4
+
+Process     Burst Time          Waiting Time    Turnaround Time
+P[3]              11                0                   11
+P[1]              12                11                  23
+P[2]              2                 23                  25
+P[5]              4                 25                  29
+P[4]              4                 29                  33
+
+Average Waiting Time=17
+Average Turnaround Time=24
+--------------------------------
+Process exited after 35.55 seconds with return value 0
+Press any key to continue . . .

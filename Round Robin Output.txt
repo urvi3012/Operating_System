@@ -1,0 +1,26 @@
+         Round Robin
+Enter the number of processes : 5
+
+Enter the time quantum : 2
+
+Enter the burst time of Process :
+1 12
+
+2 2
+
+3 14
+
+4 9
+
+5 18
+
+
+1  12  31  43
+2  2  2  4
+3  14  35  49
+4  9  30  39
+5  18  37  55
+
+--------------------------------
+Process exited after 30.52 seconds with return value 0
+Press any key to continue . . .

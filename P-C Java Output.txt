@@ -1,0 +1,246 @@
+run:
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Consumer Consuming
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+Consumer Consuming
+Producer Producing
+Producer Producing
+Producer is Waiting 
+Consumer Consuming
+BUILD STOPPED (total time: 50 seconds)
